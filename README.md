@@ -120,6 +120,37 @@ User 3 - Company Profile Page Example:<br>
 User 5 - Contact Form Example:<br>
 (designed on Figma)<br>
 ![](images/pathfind_contact_form.png)
+<br>
+<br>
+<br>
 
 ## Current Prototype 
+Home Page<br>
+![](images/Current/HomePage.png)
+<br>
+<br>
+<br>
 
+Home Page with Industry Hover<br>
+![](images/Current/HP_Industry.png)
+<br>
+<br>
+<br>
+
+Logged In Showing A-Z Filter with Keyword Hover<br>
+![](images/Current/LogIn_AZ_Keyword.png)
+<br>
+<br>
+<br>
+
+Map View of A-Z Companies<br>
+![](images/Current/AZ_MapView.png)
+<br>
+<br>
+<br>
+
+Favorites Page<br>
+![](images/Current/YourFavorites.png)
+<br>
+<br>
+<br>
