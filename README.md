@@ -1,12 +1,13 @@
-### CS5610 Web Development 
+### Pathfinder Web Application
+Pathfinder was built using Flask, SQLite, Bootstrap, HTML, CSS 
 
 
 ## Team
 - Team Lead: Alex Corcoran
 - Team: Conor Weiss
 
-## Project Goal
-Pathfinder - a Portland-specific directory of tech and tech-related businesses. A full-stack application that allows users to register, login, and search/favorite businesses of interest. Each business will have a profile page and map location. Pathfinder is intended to be a resource to learn about companies that are either smaller/less well known, not partnered with or highlighted by the Roux, or have tech positions open but are not explicitly tech companies, like banks or healthcare systems.
+## Project Description
+Pathfinder is a Portland-specific directory of tech and tech-related businesses. It is a full-stack application that allows users to register, login, and search/favorite businesses of interest. There are several ways to filter businesses, such as by industry, zip code, keyword, and business type. Each business has a profile page and map location. Pathfinder is intended to be a resource to learn about companies that are either smaller/less well known, not partnered with or highlighted by the Roux, or have tech positions open but are not explicitly tech companies, like banks or healthcare systems.
 
 ## User Stories
 
@@ -72,3 +73,8 @@ Pathfinder - a Portland-specific directory of tech and tech-related businesses. 
 
 <br>
 <br>
+## Initial Database Design
+
+## Initial UI Design
+Referenced Builtin, LinkedIn, and The Roux Institute’s websites for design and layout inspiration and information design. The logo was created in Illustrator.
+
