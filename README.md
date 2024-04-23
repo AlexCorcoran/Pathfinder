@@ -73,8 +73,53 @@ Pathfinder is a Portland-specific directory of tech and tech-related businesses.
 
 <br>
 <br>
+
 ## Initial Database Design
+ER Diagram:<br>
+![](images/ER_Diagram.png)
+
+
+Relational Model:<br>
+![](images/Relational_Model.png)
 
 ## Initial UI Design
 Referenced Builtin, LinkedIn, and The Roux Institute’s websites for design and layout inspiration and information design. The logo was created in Illustrator.
+
+Color Accessibility:<br>
+(via Adobe Color)<br>
+![](images/WebDev_ColorAccessibility.png)
+<br>
+<br>
+
+
+Home Page:<br>
+(designed on Figma)<br>
+![](images/pathfind_homepage.png)
+<br>
+<br>
+
+User 1 - Industry Hover Example:<br>
+(designed on Figma)<br>
+![](images/pathfind_industry_hover.png)
+<br>
+<br>
+
+
+User 2 - Join Example:<br>
+(designed on Figma)<br>
+![](images/pathfind_register_2.png)
+<br>
+<br>
+
+User 3 - Company Profile Page Example:<br>
+(designed on Figma)<br>
+![](images/pathfind_profile_page.png)
+<br>
+<br>
+
+User 5 - Contact Form Example:<br>
+(designed on Figma)<br>
+![](images/pathfind_contact_form.png)
+
+## Current Prototype 
 
