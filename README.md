@@ -29,13 +29,16 @@ Logged In Showing A-Z Filter with Keyword Hover<br>
 <br>
 
 Map View of A-Z Companies<br>
-![](images/Current/AZ_MapView.png)
+![](images/Current/Company_Full_Profile_View.png)
 <br>
 <br>
 <br>
 
 Company Full Profile View<br>
-
+![](images/Current/AZ_MapView.png)
+<br>
+<br>
+<br>
 
 Favorites Page<br>
 ![](images/Current/YourFavorites.png)
