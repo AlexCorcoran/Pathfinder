@@ -9,6 +9,40 @@ Pathfinder was built using Flask, SQLite, Bootstrap, HTML, CSS
 ## Project Description
 Pathfinder is a Portland-specific directory of tech and tech-related businesses. It is a full-stack application that allows users to register, login, and search/favorite businesses of interest. There are several ways to filter businesses, such as by industry, zip code, keyword, and business type. Each business has a profile page and map location. Pathfinder is intended to be a resource to learn about companies that are either smaller/less well known, not partnered with or highlighted by the Roux, or have tech positions open but are not explicitly tech companies, like banks or healthcare systems.
 
+## Current Prototype Screenshots
+Home Page<br>
+![](images/Current/HomePage.png)
+<br>
+<br>
+<br>
+
+Home Page with Industry Hover<br>
+![](images/Current/HP_Industry.png)
+<br>
+<br>
+<br>
+
+Logged In Showing A-Z Filter with Keyword Hover<br>
+![](images/Current/LogIn_AZ_Keyword.png)
+<br>
+<br>
+<br>
+
+Map View of A-Z Companies<br>
+![](images/Current/AZ_MapView.png)
+<br>
+<br>
+<br>
+
+Company Full Profile View<br>
+
+
+Favorites Page<br>
+![](images/Current/YourFavorites.png)
+<br>
+<br>
+<br>
+
 ## User Stories
 
 |User Story 1 |Casual Research|
@@ -120,37 +154,6 @@ User 3 - Company Profile Page Example:<br>
 User 5 - Contact Form Example:<br>
 (designed on Figma)<br>
 ![](images/pathfind_contact_form.png)
-<br>
-<br>
-<br>
-
-## Current Prototype Screenshots
-Home Page<br>
-![](images/Current/HomePage.png)
-<br>
-<br>
-<br>
-
-Home Page with Industry Hover<br>
-![](images/Current/HP_Industry.png)
-<br>
-<br>
-<br>
-
-Logged In Showing A-Z Filter with Keyword Hover<br>
-![](images/Current/LogIn_AZ_Keyword.png)
-<br>
-<br>
-<br>
-
-Map View of A-Z Companies<br>
-![](images/Current/AZ_MapView.png)
-<br>
-<br>
-<br>
-
-Favorites Page<br>
-![](images/Current/YourFavorites.png)
 <br>
 <br>
 <br>
