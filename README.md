@@ -124,7 +124,7 @@ User 5 - Contact Form Example:<br>
 <br>
 <br>
 
-## Current Prototype 
+## Current Prototype Screenshots
 Home Page<br>
 ![](images/Current/HomePage.png)
 <br>
