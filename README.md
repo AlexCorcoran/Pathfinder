@@ -1,4 +1,4 @@
-### Pathfinder Web Application
+### Pathfinder Web Application for Web Development Class Spring 2024
 Pathfinder was built using Flask, SQLite, Bootstrap, HTML, CSS 
 
 
