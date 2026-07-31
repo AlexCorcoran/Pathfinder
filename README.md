@@ -9,6 +9,11 @@ Pathfinder was built using Flask, SQLite, Bootstrap, HTML, CSS
 ## Project Description
 Pathfinder is a Portland-specific directory of tech and tech-related businesses. It is a full-stack application that allows users to register, login, and search/favorite businesses of interest. There are several ways to filter businesses, such as by industry, zip code, keyword, and business type. Each business has a profile page and map location. Pathfinder is intended to be a resource to learn about companies that are either smaller/less well known, not partnered with or highlighted by the Roux, or have tech positions open but are not explicitly tech companies, like banks or healthcare systems.
 
+## Video Walkthrough
+
+https://github.com/user-attachments/assets/31135a9b-7c79-4d7f-b73f-2395838d068f
+
+
 ## Current Prototype Screenshots
 Home Page<br>
 ![](images/Current/HomePage.png)
